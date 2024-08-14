@@ -1,8 +1,8 @@
 /*
  * File:   BinarySearchTree.cpp
- * Author: Emmanuel Chidinma
- * emmanuel.c.chidinma@gmail.com
- * Created on November 27, 2017, 6:24 AM
+ * Author: Aditya Kumar
+ * adityadav2809@gmail.com
+ * Created on July 23, 2024, 6:24 AM
  */
 
 #include <iostream>
