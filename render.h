@@ -1,8 +1,8 @@
 /*
  * File:   render.h
- * Author: Emmanuel Chidinma
- * emmanuel.c.chidinma@gmail.com
- * Created on November 27, 2017, 2:42 PM
+ * Author: Aditya Kumar
+ * adityadav2809@gmail.com
+ * Created on July 23, 2024, 2:42 PM
  */
 
 #ifndef RENDER_H
