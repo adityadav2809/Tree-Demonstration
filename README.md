@@ -1,24 +1,23 @@
-Project: Binary Tree Visualization using OpenGL
+# Tree-Visualization
 
-Synopsis:
-This project focuses on the visual demonstration of binary trees, particularly those used in decision-making processes.
-Binary trees are essential in many computer science applications, including search algorithms and decision-making structures.
-In machine learning, decision trees are used to create binary splits of data, helping to distill complex datasets into 
-understandable rules. This visualization tool allows users to observe the structure of a binary tree, understand its balance,
-and see how subtrees can be manipulated.
+•	Project (Description): Binary Tree Visualization using OpenGL.
 
-Objectives:
-- Binary Tree Creation and Visualization: Construct and visually demonstrate binary trees, highlighting their structure and characteristics.
-- Tree Balancing Demonstration: Show the effects of tree balancing, optimizing both the tree’s structure and search performance.
-- Tree Mask and Map Matrices: Illustrate the internal structure of the tree using matrix representations.
-- Node Deletion and Subtree Insertion: Demonstrate dynamic operations such as deleting nodes and reinserting subtrees.
+•	Synopsis: 
+This project was inspired by the need to visualize decision [binary] trees. In the domain of machine learning, some decision trees make a binary split of the data. The decision tree is one of the most commonly used classification techniques. One of the best things about decision trees is that humans can easily understand the data. The decision tree does a great job of distilling data into knowledge. With this, you can take a set of unfamiliar data and extract a set of rules. The machine learning will take place as the machine creates these rules from the dataset. Decision trees are often used in expert systems, and the results obtained by using them are often comparable to those from a human expert with decades of experience in a given field.
 
-Technologies Used:
-- Languages: C, C++ (Data Structures & Algorithms)
-- API: OpenGL for graphical rendering
-- IDE: Microsoft Visual Studio
+•	Objectives: 
+a)	Creation and visualization of binary trees.
+b)	Balancing the tree.
+c)	Creation of tree mask and map matrices for a tree.
+d)	Deleting nodes and Inserting back sub [binary] trees.
 
-Usage Instructions:
-The entry point for the tree demonstration is bsTree.cpp. Within this file, use the populateTree() function to create and populate your 
-BinarySearchTree class. After building your tree, compile and run the application to visualize the structure. If you want to explore how 
-balancing affects the tree, press 'v' to balance the tree and observe the changes in the visualization.  
+•	Programming Languages and IDEs: 
+a)	C and C++ Data Structures & Algorithms.
+b)	OpenGL API.
+c)	Microsoft Visual Studio IDE.
+
+•	How to use:
+bsTree.cpp defines the entry point for the application. In this file, create and populate your BinarySearchTree class object in the function: populateTree(), and you are ready to compile and run the program. When your tree previews initially and you do not like its structure, you can press keyboard letter ‘v’ to balance the tree. The balanced tree will then replace the initially created tree and will preview in its stead.
+
+•	Feedback:
+Please send me an email at: emmanuel.c.chidinma@gmail.com
