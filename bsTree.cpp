@@ -1,7 +1,7 @@
 /*
  * File:   bsTree.cpp : Defines the entry point for the application.
  * Author: Aditya Kumar
- * emmanuel.c.chidinma@gmail.com
+ * adityadav2809@gmail.com
  * Created on July 23, 2024, 2:42 PM
  */
 
