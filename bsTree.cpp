@@ -1,8 +1,8 @@
 /*
  * File:   bsTree.cpp : Defines the entry point for the application.
- * Author: Emmanuel Chidinma
+ * Author: Aditya Kumar
  * emmanuel.c.chidinma@gmail.com
- * Created on November 27, 2017, 2:42 PM
+ * Created on July 23, 2024, 2:42 PM
  */
 
 //#include <gl/glut.h> // included in render.h
